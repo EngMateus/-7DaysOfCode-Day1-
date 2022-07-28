@@ -6,8 +6,6 @@
 <br>
 📚 Estudo Programação na Alura Cursos
 <br>
-👨‍💻 Atualmente trabalho na área de informatica
-<br>
 🧠🦾 Obejtivos Profissionais: Me formar e fazer uma especialização em áreas de IA,Machine Learning e Ciência de dados 
 <br>
 🚲 Hobbie: Em horas vagas, curto andar de bike e sair com amigos 
